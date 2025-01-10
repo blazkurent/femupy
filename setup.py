@@ -4,7 +4,7 @@ setup(
     name='femupy',
     version='0.1.2',
     author='Blaž Kurent',
-    author_email='bkurent@fgg.uni-lj.si',
+    author_email='blaz.kurent@fgg.uni-lj.si',
     description='Finite element model updating using natural frequencies and mode shapes',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
