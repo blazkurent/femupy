@@ -2,9 +2,9 @@ from setuptools import setup, find_packages
 
 setup(
     name='femupy',
-    version='0.1.0',
+    version='0.1.1',
     author='Blaž Kurent',
-    author_email='kurent.blaz@gmail.com',
+    author_email='bkurent@fgg.uni-lj.si',
     description='Finite element model updating using natural frequencies and mode shapes',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
