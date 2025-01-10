@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 import os
-import tensorflow as tf
 os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '1'
 from tensorflow.keras.models import Sequential
